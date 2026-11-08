@@ -79,5 +79,5 @@ describe("Counter App", () => {
     expect(screen.getByText("Count: -2")).toBeInTheDocument();
   });
 
-  // Step 7, 8, 9 in md file.
+  // Step 7, 8, 9 in README.md file.
 });
